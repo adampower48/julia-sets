@@ -1,0 +1,1 @@
+"C:\Users\Adam\Documents\programming\c++\test\main_gpu.exe" | python "C:\Users\Adam\Documents\programming\python\julia_sets\mandeldraw.py" 
